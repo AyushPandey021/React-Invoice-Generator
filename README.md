@@ -18,7 +18,7 @@ An intuitive and user-friendly Invoice Generator built with React. Easily add it
 
 📸 Screenshots
 
-
+![image alt](https://github.com/AyushPandey021/invoice-generator/blob/b001d36e1771ed2085085afdfcc167a273bbddea/Invoice%20Generator%20-%20React%20App%20by%20Ayush(Basic).html
 
 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ PDF Generation: jspdf-react
 
 📥 Clone the repository
 
-git clone https://github.com/your-username/invoice-generator.git
+git clone https://github.com/AyushPandey021/invoice-generator.git
 cd invoice-generator
 
 📦 Install dependencies
