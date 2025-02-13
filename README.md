@@ -20,7 +20,7 @@ An intuitive and user-friendly Invoice Generator built with React. Easily add it
 
 
 
-![Invoice Generator](https://raw.githubusercontent.com/AyushPandey021/invoice-generator/main/path-to-image.png)
+![Invoice Generator]([https://raw.githubusercontent.com/AyushPandey021/invoice-generator/main/path-to-image.png](https://github.com/AyushPandey021/invoice-generator/blob/de5247332b22df3be0e0f96c957c1c6ef752c357/Invoice%20Generator%20-%20React%20App%20by%20Ayush(Basic).html))
 
 
 
